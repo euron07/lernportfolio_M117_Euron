@@ -2,6 +2,7 @@
 
 ## Ablauf
 - [Aufgabe 1](#aufgabe-1)
+- [Aufgabe 2](#aufgabe-2)
 
 ## Aufgabe 1
 ![{C888F23A-D195-4C62-854E-EFE094DF4536}](https://github.com/user-attachments/assets/1c7a6af5-da0f-47c4-a01c-c330eabcb3be)
